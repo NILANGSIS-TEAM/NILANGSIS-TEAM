@@ -1,4 +1,4 @@
-## Hello, I'm Bot Nilangsis 🧛
+## Hello, I'm Bot Nilangsis !!!
 
 <div>
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NILANGSIS-TEAM&show_icons=true">
