@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NILANGSIS-TEAM&layout=compact&hide=hack,html&langs_count=6" height="155">
 </div>
 
-## Hello, I'm Bot NILANGSIS
+## NILANGSIS Profile
 
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
